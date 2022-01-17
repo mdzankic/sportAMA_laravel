@@ -1,0 +1,65 @@
+body{
+	background-color: #F0F8FF;
+}
+
+.zag{
+	background-color: #A52A2A;
+}
+
+.link{
+	color: white;
+}
+
+h1, h2{
+	color:  black;
+	text-align: center;
+	font-family: Georgia;
+}
+
+.container {
+  position: relative;
+  max-width: 800px; /* Maximum width */
+  margin: 0 auto; /* Center it */
+}
+
+.container .content {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 100%; /* Full width */
+  padding: 20px; /* Some padding */
+}
+
+h3, p.mi{
+	text-align: justify;
+	color: white;
+	text-align-last: center;
+}
+
+.gallery{
+  margin: 15px;
+  float: left;
+  width: 260px;
+  padding-right: 70px;
+  padding-left: 70px;
+}
+
+.gallery_hover{
+  border: 3px solid #777;
+}
+
+.gallery_img{
+  width: 100%;
+  height: auto;
+}
+
+.desc{
+  padding-top: 15px;
+  padding-left: 0px;
+  padding-right: 50px;
+  text-align: center;
+  
+}
+
