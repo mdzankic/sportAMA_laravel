@@ -6,7 +6,7 @@
 	<title>Sportska oprema</title>
 	<meta charset="utf-8" />
 	
-	<link rel = "stylesheet" type = "text/css" href = "laragon/www/SportAMA/resources/css/app.css">
+	<link rel = "stylesheet" type = "text/css" href = "../css/app.css">
 
 </head>
 
