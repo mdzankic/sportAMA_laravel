@@ -147,8 +147,8 @@
 </div>
 
 <div class="gallery">
-	<a target="_blank" href="resources/img/Matea.jpg">
-		<img style=" height: 290px; width: 180px;" src="resources/img/Matea.jpg" alt="Matea Džankić slika">
+	<a target="_blank" href="img/Matea.jpg">
+		<img style=" height: 290px; width: 180px;" src="img/Matea.jpg" alt="Matea Džankić slika">
 	</a>
 	<div class="desc">
 		<p class="ime">Matea Džankić</p>
