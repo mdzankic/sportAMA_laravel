@@ -5,6 +5,7 @@
 
 	<title>Sportska oprema</title>
 	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<style type="text/css" >
 	body{
 		background-color: #F0F8FF;
@@ -91,8 +92,8 @@
 			<th><a href="#m__proizvodi" rel="noreferrer" class="link">Proizvodi</a></th>
 			<th><a href="#m__kontakt" rel="noreferrer" class="link">Kontakt</a></th>
 			<th><a href="#m__admin" rel="noreferrer" class="link">Admin</a></th>
-			<th><button style="color:black"><a href="#m__login" style="color:black" rel="noreferrer">Prijava</a></button></th>
-			<th><button style="color:black"><a href="#m__signin" style="color:black" rel="noreferrer">Registracija</a></button></th>
+			<th><button style="color:black"><a href="/login" style="color:black" rel="noreferrer">Prijava</a></button></th>
+			<th><button style="color:black"><a href="/register" style="color:black" rel="noreferrer">Registracija</a></button></th>
 			</thead>
 		</table>
 	</header>
